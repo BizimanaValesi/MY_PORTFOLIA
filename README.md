@@ -6,3 +6,4 @@
 - Smooth scrolling in each section.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+Deployed site: bizimanavalesi.netlify.app
